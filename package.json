@@ -1,0 +1,20 @@
+{
+  "name": "hyper-shift-insert",
+  "version": "0.0.1",
+  "description": "Makes pasting into hyper work with shift+insert as well as ctrl+v",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netbrain/hyper-shift-insert.git"
+  },
+  "keywords": [
+    "hyper",
+    "paste"
+  ],
+  "author": "Kim Eik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netbrain/hyper-shift-insert/issues"
+  },
+  "homepage": "https://github.com/netbrain/hyper-shift-insert#readme"
+}
